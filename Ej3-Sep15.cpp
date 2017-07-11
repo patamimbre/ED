@@ -37,7 +37,6 @@ int main(){
     entrada.push_back(4);
     entrada.push_back(5);
     entrada.push_back(6);
-    entrada.push_back(7);
     entrada.push_back(3);
     entrada.push_back(2);
     entrada.push_back(1);
